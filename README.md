@@ -45,7 +45,7 @@ A curated list of **Body-Worn Camera (BWC) platforms**, **Digital Evidence Manag
 
 Self-hosted software, Android camera ports, and AI video analytics pipelines for law enforcement evidence handling and research.
 
-| Repo & Star Badge 🌟 | Stars ⭐ | Primary Focus & Stack 🛠️ | Description 📝 |
+| Repo & Stars_Badge 🌟 | GitHub_Stars ⭐ | Primary Focus & Stack 🛠️ | Description 📝 |
 | :--- | :---: | :--- | :--- |
 | **[igarape/copcast](https://github.com/igarape/copcast/stargazers)** | [![Stars](https://img.shields.io/github/stars/igarape/copcast?style=social&color=white)](https://github.com/igarape/copcast/stargazers) | Android, Node.js, WebRTC | Turns commodity Android smartphones into body-worn cameras with live video streaming and cloud management. Deployed in Brazil & South Africa. |
 | **[OxWearables/capture24](https://github.com/OxWearables/capture24/stargazers)** | [![Stars](https://img.shields.io/github/stars/OxWearables/capture24?style=social&color=white)](https://github.com/OxWearables/capture24/stargazers) | Python, Machine Learning | Oxford University dataset and processing toolkit for body-worn activity trackers and wearable visual logging. |
@@ -61,7 +61,7 @@ Self-hosted software, Android camera ports, and AI video analytics pipelines for
 
 1. **Fork** this repository.
 2. Add your SaaS or Open-Source project to `README.md` following the tabular format.
-3. Ensure pricing, valuation, star count, and links are accurately stated.
+3. Ensure pricing, valuation, Stars_Count, and links are accurately stated.
 4. Submit a **Pull Request**!
 
 For details on general awesome lists, visit [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
